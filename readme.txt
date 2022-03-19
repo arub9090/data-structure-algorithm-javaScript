@@ -6,4 +6,3 @@
 ├── readme.txt
 └── selectionSort.js
 
-0 directories, 6 files
