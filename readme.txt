@@ -5,5 +5,3 @@
 ├── outfile.txt
 ├── readme.txt
 └── selectionSort.js
-
-Test
