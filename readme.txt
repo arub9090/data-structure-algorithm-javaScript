@@ -1,7 +1,10 @@
-/home/arif/DataStructureAlgo/
 ├── bubbleSort.js
+├── doublyLinkedList.js
 ├── insertionSort.js
 ├── mergeSort.js
-├── outfile.txt
+├── queue.js
+├── quickSort.js
 ├── readme.txt
-└── selectionSort.js
+├── selectionSort.js
+├── singlyLinkedList.js
+└── stack.js
